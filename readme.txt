@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-=== Slim Trader Book Hotel ===
+=== SLIM TRADER BOOK HOTEL WORDPRESS PLUGIN ===
 Derived from work earlier done by https://github.com/hlashbrooke (https://github.com/hlashbrooke/WordPress-Plugin-Template). View LICENSE file for more details
 Contributors: @williamukoh
 Tags: wordpress, plugin, template
@@ -31,15 +31,15 @@ Stable tag: 1.0
 
 Use the Slim Trader Book Hotel to place a Book Hotel button on your website
 
-== Description ==
+== DESCRIPTION ==
 
 Use the Slim Trader Book Hotel to place a Book Hotel button on your website
 
-== Usage ==
+== USAGE ==
 
 Insert the button on the desired page you want it to appear. Specify your desired Theme, Background color and the unique URL on the Slim Trader platform
 
-== Installation ==
+== INSTALLATION ==
 
 Installing "Slim Trader Book Hotel" can be done either by the following steps:
 
