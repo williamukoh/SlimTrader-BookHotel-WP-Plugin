@@ -14,7 +14,7 @@
                 ed.execCommand('mceInsertContent', 0, shortcode);
             });
         },
-        // ... Hidden code
+       
     });
     // Register plugin
     tinymce.PluginManager.add( 'slim_trader', tinymce.plugins.SlimTrader );
